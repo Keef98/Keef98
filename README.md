@@ -101,7 +101,7 @@ I build smart applications that combine **AI, automation, and beautiful design**
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keef8&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Keef98&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keef98&theme=tokyonight" alt="GitHub streak" height="165"/>
 </p> 
 
