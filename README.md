@@ -88,7 +88,7 @@ I build smart applications that combine **AI, automation, and beautiful design**
 ## 🌱 What I’m Learning  
 
 <p align="center">
-  ![What_Im_Learning](https://github.com/user-attachments/assets/b611f447-1ed5-48fa-b4ba-6ada9eb9dd7a)
+  <img src="https://github.com/user-attachments/assets/b611f447-1ed5-48fa-b4ba-6ada9eb9dd7a">
 
 </p>  
 
@@ -101,8 +101,8 @@ I build smart applications that combine **AI, automation, and beautiful design**
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lniyu1&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lniyu1&theme=tokyonight" alt="GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Keef8&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keef98&theme=tokyonight" alt="GitHub streak" height="165"/>
 </p> 
 
 ---
