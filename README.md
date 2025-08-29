@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/72bcd98c-4cac-42b9-846a-1f5be075128f" />
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/76897b5d-ce77-4051-8d26-d9cab3d0a047" />
+
 
 </p> 
 
@@ -87,7 +88,8 @@ I build smart applications that combine **AI, automation, and beautiful design**
 ## 🌱 What I’m Learning  
 
 <p align="center">
-  <img width="480" height="480" alt="codeing-black" src="https://github.com/user-attachments/assets/42f56eee-b9c6-49bc-b5d5-f16f42ad85f2" />
+  ![What_Im_Learning](https://github.com/user-attachments/assets/b611f447-1ed5-48fa-b4ba-6ada9eb9dd7a)
+
 </p>  
 
 - Scaling AI systems for real-time collaboration  
